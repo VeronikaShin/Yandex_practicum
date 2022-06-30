@@ -1,6 +1,6 @@
 # Yandex_practicum
 
-First project:
+Final project:
 
 Analysis of the success of computer games
 it is necessary to identify patterns for the Strimchik (online store) that determine the success of the game according to data up to 2016. 
