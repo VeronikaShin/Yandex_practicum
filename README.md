@@ -10,6 +10,7 @@ I used data up to 2016 to calculate the advertising campaign for 2017. I was loo
 **were using: pandas, numpy, scipy, seaborn, matplotlib.**
 
 **Data Description**
+
 Name - the name of the game
 Platform - platform
 Year_of_Release - year of release
