@@ -7,6 +7,8 @@ it was necessary to identify patterns for the Strimchik (online store) that dete
 This would allow Strimchik to bid on a potentially popular product and plan advertising campaigns.
 I used data up to 2016 to calculate the advertising campaign for 2017. I was looking for principles of working with data in order to predict sales for any year in principle.
 
+**In this project were made:** EDA, a portrait of the user of each region was compiled and hypotheses were tested.
+
 **were using: pandas, numpy, scipy, seaborn, matplotlib.**
 
 **Data Description**
