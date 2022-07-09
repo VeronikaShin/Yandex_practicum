@@ -9,7 +9,7 @@ I used data up to 2016 to calculate the advertising campaign for 2017. I was loo
 
 **In this project were made:** EDA, a portrait of the user of each region was compiled and hypotheses were tested.
 
-**were using: pandas, numpy, scipy, seaborn, matplotlib.**
+**Were used: pandas, numpy, scipy, seaborn, matplotlib.**
 
 **Data Description**
 
