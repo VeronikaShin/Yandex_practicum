@@ -1,6 +1,6 @@
 # Yandex_practicum
 
-Final project 1:
+## Game project:
 
 Analysis of the success of computer games.
 it was necessary to identify patterns for the Strimchik (online store) that determine the success of the game according to data up to 2016. 
@@ -9,19 +9,10 @@ I used data up to 2016 to calculate the advertising campaign for 2017. I was loo
 
 **In this project were made:** EDA, a portrait of the user of each region was compiled and hypotheses were tested.
 
-**Were used: pandas, numpy, scipy, seaborn, matplotlib.**
+## Start up progect: 
 
-**Data Description**
+In the startup that sells food, I needed to figure out how users of a mobile application behave.
 
-Name - the name of the game
-Platform - platform
-Year_of_Release - year of release
-Genre - game genre
-NA_sales - sales in North America (millions of copies sold)
-EU_sales - sales in Europe (millions of copies sold)
-JP_sales - sales in Japan (millions of copies sold)
-Other_sales - sales in other countries (millions of copies sold)
-Critic_Score - Critics score (maximum 100)
-User_Score - user score (maximum 10)
-Rating - rating from the ESRB (Entertainment Software Rating Board). This association determines the rating of computer games and assigns them an appropriate age category.
-Data for 2016 may not be complete.
+**In the project were studied:** the sales funnel, the share of users who reached the purchase, the results of the A/A/B experiment.
+Users were divided into 3 groups: 2 control groups with old fonts and one experimental group with new ones. I had to figure out which font was better.
+
