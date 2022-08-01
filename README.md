@@ -2,9 +2,12 @@
 
 ## Game project:
 
-Based on the study (one cohort), it was nesessory to formulate new model for monetization of the game process, which will reduce the advertising burden on users
+Objective: based on the study (one cohort each), to formulate a model for monetization of the game process, which will reduce the advertising load on users.
+based on the results of data analysis, a decision was made on 2 potentially profitable monetization models.
 
-**In this project were made:** EDA, hypothesis testing and models testing
+in this project were made: EDA, z-Test hypotheses, Model validation
+
+Were used: pandas, numpy, datetime, scipy, seaborn, matplotlib, scipy
 
 
 ## A/B test
