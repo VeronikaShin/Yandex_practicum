@@ -1,0 +1,28 @@
+The task is to evaluate the results of the A / B test. There is a dataset with user actions, a technical task and several auxiliary datasets.
+
+Need:
+
+Evaluate the correctness of the test:
+intersection of the test audience with a competing test,
+coincidence of the test and marketing events, other problems of time limits of the test.
+Analyze test results
+Step 1. Data preprocessing
+
+Step 2. Evaluate the correctness of the test:
+
+Compliance of data with the requirements of the technical specifications. Check the correctness of all points of the technical task.
+The time of the test. Make sure it doesn't overlap with marketing and other activities.
+test audience. Make sure there are no overlaps with a competing test and no users participating in two test groups at the same time. Check the uniformity of distribution among the test groups and the correctness of their formation.
+Step 3.EDA:
+
+Are the number of events per user equally distributed across the samples?
+How is the number of events in the samples distributed over the days?
+How does the conversion in the funnel change in the samples at different stages?
+What features of the data should be taken into account before proceeding with A / B testing?
+Step 4. Evaluate the results of A / B testing:
+
+What can you say about the results of A/B testing?
+Check the statistical difference of proportions by z-test.
+Step 5. Conclusions
+
+were used: pandas, numoy, scipy, proportions_ztest, seaborn, plotly 
