@@ -28,6 +28,7 @@ Analyze test results
 
 ## SQL mini project
 
+5 mini sql tasks about book app
 
 
 
